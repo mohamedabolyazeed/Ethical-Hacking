@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1753600195.61314 "Lab_Setup.tex" "Lab_Setup.pdf" "Lab_Setup" 1753600202.27836 2
+  "/etc/texmf/web2c/texmf.cnf" 1746237544.94273 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1746237771 1928195 478b22261de9b39988327cb6974e4b34 ""
+  "Lab_Setup.aux" 1753600195.61194 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Lab_Setup.tex" 1753600070.75666 16385 96d1497201d3a3756a990838a2c71afe ""
+  (generated)
+  "Lab_Setup.aux"
+  "Lab_Setup.log"
+  "Lab_Setup.pdf"
+  (rewritten before read)
