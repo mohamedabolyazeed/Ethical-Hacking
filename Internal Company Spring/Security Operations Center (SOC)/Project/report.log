@@ -1,0 +1,5015 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.5.2)  27 JUL 2025 02:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 1
+     6 0 obj
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no x in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Úí).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚí
+       XKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´ ^^A^^GrC^^\æ‘Y
+? 
+Missing character: There is no X in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no o in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P
+               ¾ó+Zœf^^NmÚåw^^Xå€´ ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾
+                ó+Zœf^^NmÚåw^^Xå€´ ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ó+Zœ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœ
+                    f^^NmÚåw^^Xå€´ ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^N
+                        mÚåw^^Xå€´ ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Úå).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚå
+                           w^^Xå€´ ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^X
+                               å€´ ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Unicode character å€´ (U+5034)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´
+                                   ^^A^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´ ^^A
+                                      ^^GrC^^\æ‘Y
+? 
+
+! LaTeX Error: Unicode character ^^G (U+0007)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´ ^^A^^G
+                                         rC^^\æ‘Y
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´ ^^A^^G
+                                          rC^^\æ‘Y
+? 
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´ ^^A^^GrC^^\
+                                               æ‘Y
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (æ‘Y).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 xÚíXKo$5^^P¾ó+Zœf^^NmÚåw^^Xå€´ ^^A^^GrC^^\æ‘Y
+                                                  
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "82.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚
+     ^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^D
+        HVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş
+            =U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Unicode character Û (U+06DD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛ
+                  xf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^R
+                        H^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\
+                            ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ØU).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU
+                              4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (İî).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İî
+                                 r¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹
+                                   ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹
+                                    ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ßW).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßW
+                                      İÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (İÃ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ
+                                        ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Unicode character ^^_ (U+001F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_
+                                           ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ
+                                            ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Unicode character ^^^ (U+001E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^
+                                               &ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+! Misplaced alignment tab character &.
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&
+                                                ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü
+                                                 ¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ‚^^DHVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯
+                                                  ‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "87.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...HVZş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡
+                                                  ^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€...
+
+? 
+! Text line contains an invalid character.
+l.7 ...ş=U.WÛxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@
+                                                  CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ğIÅ4).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...Ûxf'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4
+                                                  ì^^?Ã…oğïığÕİğÅ×z€Iy^^On¸;...
+
+? 
+! Text line contains an invalid character.
+l.7 ...'^^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?
+                                                  Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N1...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ìÃ…).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...^RH^^\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…
+                                                  oğïığÕİğÅ×z€Iy^^On¸;^^N1(H...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ğïığ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...\ØU4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığ
+                                                  ÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Õİ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...U4İîr¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİ
+                                                  ğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ğÅ×z).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...r¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z
+                                                  €Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...¹ßWİÃ^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€
+                                                  Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]...
+
+? 
+
+! LaTeX Error: Unicode character ^^O (U+000F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...Ã^^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^^O
+                                                  n¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...^_ƒ^^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^^On¸
+                                                  ;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“...
+
+? 
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...^^&ü¯‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N
+                                                  1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...‡^^@CğIÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ
+                                                  ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·...
+
+? 
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ğIÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A
+                                                  ·Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|ï§...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...IÅ4ì^^?Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·
+                                                  Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|ï§i...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ü^^]).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...^^?Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]
+                                                  ~ÚL“İN“Şãoœ¦^^@·à7|ï§i2p;š...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÚL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...Ã…oğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL
+                                                  “İN“Şãoœ¦^^@·à7|ï§i2p;šIÓÊ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "93.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...…oğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“
+                                                  İN“Şãoœ¦^^@·à7|ï§i2p;šIÓÊ^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (İN).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ğïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN
+                                                  “Şãoœ¦^^@·à7|ï§i2p;šIÓÊ^^N...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "93.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ïığÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“
+                                                  Şãoœ¦^^@·à7|ï§i2p;šIÓÊ^^N%...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Şã).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ğÕİğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şã
+                                                  oœ¦^^@·à7|ï§i2p;šIÓÊ^^N%^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...İğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ
+                                                  ¦^^@·à7|ï§i2p;šIÓÊ^^N%^^N...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...ğÅ×z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦
+                                                  ^^@·à7|ï§i2p;šIÓÊ^^N%^^N$...
+
+? 
+! Text line contains an invalid character.
+l.7 ...z€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@
+                                                  ·à7|ï§i2p;šIÓÊ^^N%^^N$>ö€...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...€Iy^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·
+                                                  à7|ï§i2p;šIÓÊ^^N%^^N$>ö€×...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (à7|).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...^^On¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|
+                                                  ï§i2p;šIÓÊ^^N%^^N$>ö€×(AÏ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ï§i).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...n¸;^^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|ï§i
+                                                  2p;šIÓÊ^^N%^^N$>ö€×(AÏ}–^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...^N1(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|ï§i2p;š
+                                                  IÓÊ^^N%^^N$>ö€×(AÏ}–^^D¼r...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÓÊ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...(H0Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|ï§i2p;šIÓÊ
+                                                  ^^N%^^N$>ö€×(AÏ}–^^D¼r†÷:...
+
+? 
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...Œ~R^^A·Ü^^]~ÚL“İN“Şãoœ¦^^@·à7|ï§i2p;šIÓÊ^^N
+                                                  %^^N$>ö€×(AÏ}–^^D¼r†÷:};f...
+
+? 
+
+! LaTeX Error: Unicode character É (U+0250)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 É
+      m+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³
+          XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Unicode character Í· (U+0377)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·
+              *^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X
+                  ^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^X
+                     ªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^Xª
+                      ÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^Xª
+                       ÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÑÑ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑ
+                         xHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ñ^^D).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^D
+                               mÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Unicode character Ö¯ (U+05AF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯
+                                  Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Unicode character Õ† (U+0546)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†
+                                    Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†I
+                                      ñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ñ­Öx).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­Öx
+                                          V0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­Öx
+                                           V0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Éh).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 Ém+X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0Éh
+                                               cÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 8.
+
+
+LaTeX Warning: Command \l invalid in math mode on input line 8.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...X³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸
+                                                  õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...³XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸
+                                                  õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "F5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...XhÍ·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ
+                                                  *‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "82.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Í·*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚
+                                                  Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»Ó...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Å8).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...*^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8
+                                                  ’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^X^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’
+                                                  àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (àéñ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^XªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñ
+                                                  æ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PL...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (æ÷Ã).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ªÑÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷Ã
+                                                  Z{³:®G^^G«›û÷7»ÓCï^^PLå¼ï...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ÑxHÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³
+                                                  :®G^^G«›û÷7»ÓCï^^PLå¼ïóf...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...HÑ^^DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®
+                                                  G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢...
+
+? 
+
+! LaTeX Error: Unicode character ^^G (U+0007)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...DmÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G
+                                                  «›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...mÖ¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«
+                                                  ›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ö¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›
+                                                  û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...¯Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û
+                                                  ÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéá...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8F.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Õ†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û
+                                                  ÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáı...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "F7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...†Iñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷
+                                                  7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ñ­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»
+                                                  ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4n...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÓC).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...­ÖxV0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓC
+                                                  ï^^PLå¼ïóf§¢3EàÃÓéáız4nõô...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ï^^PL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...0ÉhcÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PL
+                                                  å¼ïóf§¢3EàÃÓéáız4nõô¼}>í·...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (å¼ï).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...cÅ‚¸õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PLå¼ï
+                                                  óf§¢3EàÃÓéáız4nõô¼}>í·^^O...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (óf§).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§
+                                                  ¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...õ*‚Å8’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢
+                                                  3EàÃÓéáız4nõô¼}>í·^^OÛ_×#À...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (àÃÓ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...’àéñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓ
+                                                  éáız4nõô¼}>í·^^OÛ_×#Àê/\ô«...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (éáı).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ñæ÷ÃZ{³:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáı
+                                                  z4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "F5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Z{³:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõ
+                                                  ô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯...
+
+? 
+! Argument of \UTFviii@four@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.8 ...:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}
+                                                  >í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>...
+
+? 
+Runaway argument?
+! Paragraph ended before \UTFviii@four@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.8 ...:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}
+                                                  >í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}
+                                                  >í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 ...:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}
+                                                  >í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>...
+
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--8
+[]
+ []
+
+
+Overfull \hbox (75.11023pt too wide) in paragraph at lines 3--8
+\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 fmwrCHVZ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (159.16953pt too wide) in paragraph at lines 3--8
+\OML/cmm/m/it/10 U:Wxf[]H\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 rCoIyn\OT1/cmr/m/n/1
+0 ; 1(\OML/cmm/m/it/10 H\OT1/cmr/m/n/10 0 \OML/cmm/m/it/10 R o\OT1/cmr/m/n/10 2
+\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 Im \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (28.90045pt too wide) in paragraph at lines 3--8
+\OML/cmm/m/it/10 XXh \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (54.36464pt too wide) in paragraph at lines 3--8
+\OML/cmm/m/it/10 xHmIV\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 cl \OMS/cmsy/m/n/10 ^^C
+
+ []
+
+
+Overfull \hbox (55.01067pt too wide) in paragraph at lines 3--8
+\OML/cmm/m/it/10 Z[]$ 
+ []
+
+! Too many }'s.
+<recently read> }
+                 
+l.8 ...:®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}
+                                                  >í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...®G^^G«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>
+                                                  í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|...
+
+? 
+Missing character: There is no > in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (í·^^O).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...«›û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^O
+                                                  Û_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Û_).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...û÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_
+                                                  ×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (×#).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...÷7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#
+                                                  Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬Š...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...7»ÓCï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#À
+                                                  ê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ê/\ô).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ï^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô
+                                                  «§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô«
+                                                  §ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^PLå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô«§
+                                                  ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÓÓ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Lå¼ïóf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓ
+                                                  óã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (óã#¯).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...óf§¢3EàÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯
+                                                  <=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂê...
+
+? 
+Missing character: There is no < in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no | in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...3EàÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·
+                                                  ^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^...
+
+? 
+
+! LaTeX Error: Unicode character ^^^ (U+001E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ÃÓéáız4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^
+                                                  ^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^...
+
+? 
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...áız4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C
+                                                  ¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GR...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ız4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬
+                                                  ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...z4nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬Š
+                                                  ÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Äé).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...nõô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄé
+                                                  ûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...õô¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéû
+                                                  ÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œU...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÓÃ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...¼}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ
+                                                  ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "87.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...}>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡
+                                                  _®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8F.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...>í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡
+                                                  _®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...í·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_
+                                                  ®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7E...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.8 ...·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®
+                                                  ±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7ED...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...·^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®
+                                                  ±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7ED...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^OÛ_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±
+                                                  xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Âê).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Û_×#Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂê
+                                                  ô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ô°çÕ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Àê/\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ
+                                                  ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a...
+
+? 
+
+! LaTeX Error: Unicode character ^^O (U+000F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...\ô«§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O
+                                                  ^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\...
+
+? 
+
+! LaTeX Error: Unicode character ^^G (U+0007)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...§ÓÓóã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^G
+                                                  RØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ø1).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...óã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1
+                                                  œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1...
+
+? 
+
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ã#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1
+                                                  œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...#¯<=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œ
+                                                  UÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÉÊ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...=>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ
+                                                  ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...>|·^^^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹
+                                                  7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­
+                                                  Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ìè).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^C¬ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè
+                                                  \P&a^^\­²Ö—Ò1¡$;6I]^^T^^[X...
+
+? 
+! Misplaced alignment tab character &.
+l.8 ...ŠÄéûÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&
+                                                  a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²...
+
+? 
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ÓÃ‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\
+                                                  ­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ã‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­
+                                                  ²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...‡_®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²
+                                                  Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@û...
+
+? 
+
+! LaTeX Error: Unicode character Ö— (U+0597)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ..._®±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—
+                                                  Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ò1).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...±xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1
+                                                  ¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...xÂêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡
+                                                  $;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 ...Âêô°çÕ^^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$
+                                                  ;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^...
+
+? 
+Missing character: There is no ; in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+! LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^O^^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T
+                                                  ^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^GRØ1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[
+                                                  Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·...
+
+? 
+Missing character: There is no X in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (å!²).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...1œUÉÊ¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²
+                                                  jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}...
+
+? 
+Missing character: There is no j in font nullfont!
+! Text line contains an invalid character.
+l.8 ...Ê¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@
+                                                  ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Üû).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...¹7EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@û
+                                                  ÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÛÑ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...EDO­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑ
+                                                  Ù‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gª...
+
+? 
+
+! LaTeX Error: Unicode character Ù‰ (U+0649)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...O­Ìè\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰
+                                                  ^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ...
+
+? 
+
+! LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...è\P&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z
+                                                  ^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ...
+
+? 
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...&a^^\­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^C
+                                                  ë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ë^^AJ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...­²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ
+                                                  ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+j...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...²Ö—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·
+                                                  I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jk...
+
+? 
+Missing character: There is no I in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...—Ò1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­
+                                                  P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-...
+
+? 
+Missing character: There is no P in font nullfont!
+! Too many }'s.
+l.8 ...1¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}
+                                                  ‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "91.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...¡$;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘
+                                                  :ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f...
+
+? 
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "AA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...;6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ª
+                                                  ªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’U...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...6I]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªª
+                                                  Ü›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ...
+
+? 
+
+! LaTeX Error: Unicode character Ü› (U+071B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...]^^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›
+                                                  Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^...
+
+? 
+Missing character: There is no G in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "AA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^T^^[Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gª
+                                                  ğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Ú...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ğ­OÍ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Xå!²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ
+                                                  ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ...
+
+? 
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...²jÜ^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\
+                                                  R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B...
+
+? 
+Missing character: There is no R in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ü^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾
+                                                  “+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "93.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^@ûÛÑÙ‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“
+                                                  +jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬...
+
+? 
+Missing character: There is no + in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no - in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ù‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º
+                                                  ¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám....
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...‰^^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥
+                                                  f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û...
+
+? 
+Missing character: There is no f in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^Z^^Cë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’
+                                                  UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|...
+
+? 
+Missing character: There is no U in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ú^^[).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ë^^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[
+                                                  Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» k...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Úş).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^AJ·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş
+                                                  >°nÒ^^B¦V¬	±8Ám.û	|¼–» k/...
+
+? 
+Missing character: There is no > in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "B0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...J·I­P}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°
+                                                  nÒ^^B¦V¬	±8Ám.û	|¼–» k/Å^...
+
+? 
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ò^^B).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...}‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B
+                                                  ¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...‘:ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦
+                                                  V¬	±8Ám.û	|¼–» k/Å^^H!\Ù ...
+
+? 
+Missing character: There is no V in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "AC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ªªÜ›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬
+                                                  	±8Ám.û	|¼–» k/Å^^H!\Ù 6e...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ü›Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±
+                                                  8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨...
+
+? 
+Missing character: There is no 8 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "C1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Gªğ ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Á
+                                                  m.û	|¼–» k/Å^^H!\Ù 6e-¨ÓE...
+
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "FB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... ­OÍ^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û
+                                                  	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7...
+
+? 
+Missing character: There is no | in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Í^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼
+                                                  –» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–
+                                                  » k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡O...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–»
+                                                   k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OH...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...\R¾“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» 
+                                                  k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ...
+
+? 
+Missing character: There is no k in font nullfont!
+Missing character: There is no / in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...“+jkC-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» k/
+                                                  Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=v...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Å^^H).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...C-º¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» k/Å^^H
+                                                  !\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜...
+
+? 
+Missing character: There is no ! in font nullfont!
+! Undefined control sequence.
+l.8 ...¥f’UÚ^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù
+                                                   6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑK...
+
+? 
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...^^[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨
+                                                  ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÓE).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...[Úş>°nÒ^^B¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨ÓE
+                                                  nk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3...
+
+? 
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...°nÒ^^B¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯
+                                                  :‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^...
+
+? 
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "87.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ò^^B¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡
+                                                  OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^P...
+
+? 
+Missing character: There is no O in font nullfont!
+Missing character: There is no H in font nullfont!
+
+! LaTeX Error: Unicode character Û (U+06DE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...¦V¬	±8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ
+                                                  =vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D...
+
+? 
+Missing character: There is no = in font nullfont!
+Missing character: There is no v in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ø[).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...±8Ám.û	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[
+                                                  p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^...
+
+? 
+Missing character: There is no p in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "98.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ám.û	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜
+                                                  ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^N...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÏÑ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ....û	|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑ
+                                                  Kßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX...
+
+? 
+Missing character: There is no K in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ßs).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...|¼–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs
+                                                  ,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì...
+
+? 
+Missing character: There is no , in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...–» k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢
+                                                  ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ì¥3).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...k/Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3
+                                                  É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (É/).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Å^^H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/
+                                                  C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E6...
+
+? 
+Missing character: There is no C in font nullfont!
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...H!\Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^P
+                                                  âÊ¾D(å]^^NõX‚»Ì	á_^^E6V“›ï...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (âÊ¾).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Ù 6e-¨ÓEnk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾
+                                                  D(å]^^NõX‚»Ì	á_^^E6V“›ïÀÏ\...
+
+? 
+Missing character: There is no D in font nullfont!
+Missing character: There is no ( in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (å]^^N).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Enk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^N
+                                                  õX‚»Ì	á_^^E6V“›ïÀÏ\¼í%˜P^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "F5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...nk7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^Nõ
+                                                  X‚»Ì	á_^^E6V“›ïÀÏ\¼í%˜P^^A...
+
+? 
+Missing character: There is no X in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "82.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...7¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚
+                                                  »Ì	á_^^E6V“›ïÀÏ\¼í%˜P^^ATJ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...¯:‡OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»
+                                                  Ì	á_^^E6V“›ïÀÏ\¼í%˜P^^ATJN...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ìá).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...OHÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á
+                                                  _^^E6V“›ïÀÏ\¼í%˜P^^ATJN2eª...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...HÛ=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_
+                                                  ^^E6V“›ïÀÏ\¼í%˜P^^ATJN2eª×...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.8 ...=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E
+                                                  6V“›ïÀÏ\¼í%˜P^^ATJN2eª×ä© ...
+
+? 
+
+! LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...=vØ[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E
+                                                  6V“›ïÀÏ\¼í%˜P^^ATJN2eª×ä© ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "93.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...[p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E6V“
+                                                  ›ïÀÏ\¼í%˜P^^ATJN2eª×ä© ƒõ½...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...p˜ÏÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E6V“›
+                                                  ïÀÏ\¼í%˜P^^ATJN2eª×ä© ƒõ½4...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ïÀÏ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ÑKßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E6V“›ïÀÏ
+                                                  \¼í%˜P^^ATJN2eª×ä© ƒõ½4[£¦...
+
+? 
+! Undefined control sequence.
+l.8 ...ßs,¢ì¥3É/C^^PâÊ¾D(å]^^NõX‚»Ì	á_^^E6V“›ïÀÏ\¼
+                                                  í%˜P^^ATJN2eª×ä© ƒõ½4[£¦´L...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (í;Î).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ;Î
+      YTe)Ï5
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ;Î
+       YTe)Ï5
+? 
+
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ;ÎYT
+          e)Ï5
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ï5).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ;ÎYTe)Ï5
+              
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 
+      g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Unicode character ^^_ (U+001F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_
+          2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2
+            Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ì¼à).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à
+                …­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "85.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…
+                 ­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­
+                  Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ä-).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-
+                    ^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE
+                         /X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ó3ñE).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE
+                         /X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹
+                               –o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–
+                                o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+! Text line contains an invalid character.
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?
+                                    è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (è1]).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]
+                                       P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z
+                                            5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|û
+                                               nİQ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (İQ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 g^^_2Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ
+                                                  ^^VqF\¨ºë©òÊãUèOd»°zü^^Eé...
+
+? 
+
+! LaTeX Error: Unicode character ^^V (U+0016)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Sì¼à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^V
+                                                  qF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶...
+
+? 
+! Undefined control sequence.
+l.10 ...à…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨
+                                                  ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...…­Ä-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨º
+                                                  ë©òÊãUèOd»°zü^^EéØ¯¶]"^^F...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ë©ò).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...-^ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©ò
+                                                  ÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Êã).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ó3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊã
+                                                  UèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...3ñE/X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊã
+                                                  UèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (èOd).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...X<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd
+                                                  »°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...<*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»
+                                                  °zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...*3¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°
+                                                  zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...¹–o^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü
+                                                  ^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C...
+
+? 
+
+! LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^^?è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^E
+                                                  éØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (éØ¯).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...è1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯
+                                                  ¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...1]P8^^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶
+                                                  ]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö...
+
+? 
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^F
+                                                  œJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Z5|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^Fœ
+                                                  Jƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...|ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ
+                                                  ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€Ô...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ûnİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿
+                                                  –‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...nİQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–
+                                                  ‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "89.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...İQ^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰
+                                                  ™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^N...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "99.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Q^^VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™
+                                                  ^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^Nl...
+
+? 
+
+! LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...VqF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q
+                                                  »^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...qF\¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»
+                                                  ^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...¨ºë©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C
+                                                  ^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7...
+
+? 
+
+! LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...©òÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z
+                                                  )ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ÊãUèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)Š
+                                                  Øö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Øö).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...UèOd»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö
+                                                  ^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Od»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F
+                                                  ‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "87.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...d»°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡
+                                                  W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...°zü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€
+                                                  ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^...
+
+? 
+
+! LaTeX Error: Unicode character Ô (U+051D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ü^^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€Ô
+                                                  Ò^NlvÓ^^?¢7^^W&6^^\Ü<^^\^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ò^).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^EéØ¯¶]"^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^
+                                                  NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C...
+
+? 
+! Text line contains an invalid character.
+l.10 ..."^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?
+                                                  ¢7^^W&6^^\Ü<^^\^^C^^H#¾L)...
+
+? 
+
+! LaTeX Error: Unicode character Ó¢ (U+04E2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^^FœJƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢
+                                                  7^^W&6^^\Ü<^^\^^C^^H#¾L)—...
+
+? 
+
+! LaTeX Error: Unicode character ^^W (U+0017)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Jƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W
+                                                  &6^^\Ü<^^\^^C^^H#¾L)—¤”£)...
+
+? 
+! Misplaced alignment tab character &.
+l.10 ...ƒ¿–‰™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&
+                                                  6^^\Ü<^^\^^C^^H#¾L)—¤”£)c...
+
+? 
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...™^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\
+                                                  Ü<^^\^^C^^H#¾L)—¤”£)c0a^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^^Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\
+                                                  Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ü<).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Q»^^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<
+                                                  ^^\^^C^^H#¾L)—¤”£)c0a^^P•^...
+
+? 
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^C^^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\
+                                                  ^^C^^H#¾L)—¤”£)c0a^^P•^^BW...
+
+? 
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^Z)ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C
+                                                  ^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^...
+
+? 
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ŠØö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H
+                                                  #¾L)—¤”£)c0a^^P•^^BWÒ9^^P^...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.10 ...Øö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#
+                                                  ¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...ö^^F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾
+                                                  L)—¤”£)c0a^^P•^^BWÒ9^^P^^V...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "97.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...F‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—
+                                                  ¤”£)c0a^^P•^^BWÒ9^^P^^V° ©...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...‡W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—¤
+                                                  ”£)c0a^^P•^^BWÒ9^^P^^V° ©:...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...W€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—¤”
+                                                  £)c0a^^P•^^BWÒ9^^P^^V° ©:û...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...€ÔÒ^NlvÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—¤”£
+                                                  )c0a^^P•^^BWÒ9^^P^^V° ©:ûµ...
+
+? 
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...vÓ^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P
+                                                  •^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "95.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Ó^^?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•
+                                                  ^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«à...
+
+? 
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...?¢7^^W&6^^\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•^^B
+                                                  WÒ9^^P^^V° ©:ûµåİ^^AÌ«à€&L...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ò9).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^^W&6^^\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9
+                                                  ^^P^^V° ©:ûµåİ^^AÌ«à€&L^^B...
+
+? 
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...&6^^\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P
+                                                  ^^V° ©:ûµåİ^^AÌ«à€&L^^Bv;·...
+
+? 
+
+! LaTeX Error: Unicode character ^^V (U+0016)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V
+                                                  ° ©:ûµåİ^^AÌ«à€&L^^Bv;·UFÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...\Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V°
+                                                   ©:ûµåİ^^AÌ«à€&L^^Bv;·UFÃÒ”çˆ
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...Ü<^^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V° ©
+                                                  :ûµåİ^^AÌ«à€&L^^Bv;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V° ©:û
+                                                  µåİ^^AÌ«à€&L^^Bv;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^\^^C^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V° ©:ûµ
+                                                  åİ^^AÌ«à€&L^^Bv;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (åİ^^A).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^^H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V° ©:ûµåİ^^A
+                                                  Ì«à€&L^^Bv;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Unicode character Ì« (U+032B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...H#¾L)—¤”£)c0a^^P•^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«
+                                                  à€&L^^Bv;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (à€&).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...L)—¤”£)c0a^^P•^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«à€&
+                                                  L^^Bv;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...”£)c0a^^P•^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«à€&L^^B
+                                                  v;·UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...c0a^^P•^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«à€&L^^Bv;·
+                                                  UFÃÒ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÃÒ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...^P•^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«à€&L^^Bv;·UFÃÒ
+                                                  ”çˆ
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...P•^^BWÒ9^^P^^V° ©:ûµåİ^^AÌ«à€&L^^Bv;·UFÃÒ”
+                                                  çˆ
+? 
+
+! LaTeX Error: Unicode character çˆ¸ (U+7238)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸
+      æ‘Üb¦ºJq{„g$ÄL^^W·uLOuš^^H
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (æ‘Ü).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Ü
+         b¦ºJq{„g$ÄL^^W·uLOuš^^H
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦
+           ºJq{„g$ÄL^^W·uLOuš^^H
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦º
+            Jq{„g$ÄL^^W·uLOuš^^H
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦ºJq{„
+                g$ÄL^^W·uLOuš^^H
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ¸æ‘Üb¦ºJq{„g$
+                  ÄL^^W·uLOuš^^H
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ¸æ‘Üb¦ºJq{„g$
+                  ÄL^^W·uLOuš^^H
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ¸æ‘Üb¦ºJq{„g$
+                  ÄL^^W·uLOuš^^H
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÄL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦ºJq{„g$ÄL
+                    ^^W·uLOuš^^H
+? 
+
+! LaTeX Error: Unicode character ^^W (U+0017)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦ºJq{„g$ÄL^^W
+                       ·uLOuš^^H
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦ºJq{„g$ÄL^^W·
+                        uLOuš^^H
+? 
+Missing character: There is no u in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no u in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦ºJq{„g$ÄL^^W·uLOuš
+                             ^^H
+? 
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ¸æ‘Üb¦ºJq{„g$ÄL^^W·uLOuš^^H
+                                
+? 
+
+! LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ^^X
+        2s‰-l%£K~"Öï»­©ñÚi[{¬Áß¶Ã	í*/õ’èQ‘O³¢^^B^^E£^^NÈ^^\Ñ¼èıêa^^[;¹gP‹ü×...
+
+? 
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "89.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ^^X2s‰
+           -l%£K~"Öï»­©ñÚi[{¬Áß¶Ã	í*/õ’èQ‘O³¢^^B^^E£^^NÈ^^\Ñ¼èıêa^^[;¹gP‹ü×...
+
+? 
+Missing character: There is no - in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no ! in font nullfont!
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^D
+          Ôp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ôp).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp
+            ^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^] (U+001D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]
+               ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]º
+                vQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+Missing character: There is no v in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no w in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Í2).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ2
+                     4^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+Missing character: There is no 4 in font nullfont!
+
+! LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[
+                         ^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Q
+                            àˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (àˆe).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe
+                               ­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­
+                                54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 
+                                     f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+Missing character: There is no f in font nullfont!
+
+! LaTeX Error: Unicode character ^^Y (U+0019)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y
+                                         ™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "99.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™
+                                          ^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X
+                                             ‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹
+                                              ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ï¯ë).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 F!^^DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë
+                                                 /¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^...
+
+? 
+Missing character: There is no / in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...DÔp^^]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿
+                                                  .v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W...
+
+? 
+Missing character: There is no . in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no C in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "8C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...]ºvQwÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒ
+                                                  MîS–y¥uµŒN¼ç^^XÑI5^^W…ŞL^^...
+
+? 
+Missing character: There is no M in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (îS–).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...wÍ24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–
+                                                  y¥uµŒN¼ç^^XÑI5^^W…ŞL^^S£#?'+2
+
+? 
+Missing character: There is no y in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...24^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥
+                                                  uµŒN¼ç^^XÑI5^^W…ŞL^^S£#?'+2
+? 
+Missing character: There is no u in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "B5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...^^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµ
+                                                  ŒN¼ç^^XÑI5^^W…ŞL^^S£#?'+2
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...^[^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒ
+                                                  N¼ç^^XÑI5^^W…ŞL^^S£#?'+2
+? 
+Missing character: There is no N in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...^^Qàˆe­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼
+                                                  ç^^XÑI5^^W…ŞL^^S£#?'+2
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ç^^XÑ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...e­54;	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑ
+                                                  I5^^W…ŞL^^S£#?'+2
+? 
+Missing character: There is no I in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+! LaTeX Error: Unicode character ^^W (U+0017)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...	 f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W
+                                                  …ŞL^^S£#?'+2
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "85.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ... f^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W…
+                                                  ŞL^^S£#?'+2
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ŞL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...^^Y™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W…ŞL
+                                                  ^^S£#?'+2
+? 
+
+! LaTeX Error: Unicode character ^^S (U+0013)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...™^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W…ŞL^^S
+                                                  £#?'+2
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...^^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W…ŞL^^S£
+                                                  #?'+2
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.13 ...^X‹ï¯ë/¿.v-CŒMîS–y¥uµŒN¼ç^^XÑI5^^W…ŞL^^S£#
+                                                  ?'+2
+? 
+Missing character: There is no ? in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (èÚw).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw
+        ^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^F
+           jU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+Missing character: There is no j in font nullfont!
+Missing character: There is no U in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·
+              U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+Missing character: There is no U in font nullfont!
+! Misplaced alignment tab character &.
+l.14 èÚw^^FjU·U~&
+                 †Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "86.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†
+                  Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character Î¨ (U+03A8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨
+                    ^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^D
+                       æe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (æe¥).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥
+                          \Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+! Undefined control sequence.
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä
+                            ^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character ^^_ (U+001F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_
+                               ^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[
+                                  ^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^Q
+                                     ÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^Qÿ
+                                      ÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ìy).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌy
+                                        üéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyü
+                                         éãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (éãÎ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎ
+                                            ù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "F9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù
+                                             ÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "F7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷
+                                              Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character Ç· (U+01F7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç·
+                                                 ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 èÚw^^FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· 
+                                                 ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤...
+
+? 
+
+! LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...FjU·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^Q
+                                                  UR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°Ë...
+
+? 
+Missing character: There is no U in font nullfont!
+Missing character: There is no R in font nullfont!
+! Misplaced alignment tab character &.
+l.14 ...·U~&†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&
+                                                  L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…O...
+
+? 
+Missing character: There is no L in font nullfont!
+
+! LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...†Î¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[
+                                                  7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáN...
+
+? 
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "95.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...¨^^Dæe¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•
+                                                  fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpë...
+
+? 
+Missing character: There is no f in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ñ…¹A).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...¥\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A
+                                                  }ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:...
+
+? 
+! Too many }'s.
+l.14 ...\Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}
+                                                  ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...Ä^^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿ
+                                                  ËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò“...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ËÈ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^_^^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈ
+                                                  âE²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (âE²).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^[^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²
+                                                  E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç...
+
+? 
+Missing character: There is no E in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤
+                                                  °ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^QÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°
+                                                  ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ËD).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ÿÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD
+                                                  …ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "85.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ÌyüéãÎù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…
+                                                  ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä...
+
+? 
+Missing character: There is no O in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no S in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (áNp).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ù÷Ç· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNp
+                                                  ëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ëĞ4).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...· ^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4
+                                                  Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Üq).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq
+                                                  –:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^QUR&L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–
+                                                  :ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾...
+
+? 
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ò“L]).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...L^^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]
+                                                  y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+...
+
+? 
+Missing character: There is no y in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "85.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...^[7•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…
+                                                  ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ç+¹).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...•fñ…¹ A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹
+                                                  c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^O...
+
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no / in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ä?).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...A}ÿËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?
+                                                  ^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^...
+
+? 
+! Text line contains an invalid character.
+l.14 ...ËÈâE²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?
+                                                  +h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ...
+
+? 
+Missing character: There is no + in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "82.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...²E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚
+                                                  ±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...E¤°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±
+                                                  Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•...
+
+? 
+
+! LaTeX Error: Unicode character Æ¾ (U+01BE)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...°ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾
+                                                  £HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ËD…ORSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£
+                                                  HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø'...
+
+? 
+Missing character: There is no H in font nullfont!
+Missing character: There is no Q in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ş+).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...RSáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+
+                                                  š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©`...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...SáNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š
+                                                  ±^^OYÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©`k...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...áNpëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±
+                                                  ^^OYÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©`kM...
+
+? 
+
+! LaTeX Error: Unicode character ^^O (U+000F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ëĞ4Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^O
+                                                  YÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©`kMZAÖ…
+? 
+Missing character: There is no Y in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÃT).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...Üq–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT
+                                                  ¯ó^^PÖ¯#ƒ°•bø'pÃ©`kMZAÖ…
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...q–:ò“L]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯
+                                                  ó^^PÖ¯#ƒ°•bø'pÃ©`kMZAÖ…
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ó^^PÖ¯).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...]y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯
+                                                  #ƒ°•bø'pÃ©`kMZAÖ…
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.14 ...y…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#
+                                                  ƒ°•bø'pÃ©`kMZAÖ…
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...…ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ
+                                                  °•bø'pÃ©`kMZAÖ…
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ç+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°
+                                                  •bø'pÃ©`kMZAÖ…
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "95.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...+¹c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•
+                                                  bø'pÃ©`kMZAÖ…
+? 
+Missing character: There is no b in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "F8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...c"/ä?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø
+                                                  'pÃ©`kMZAÖ…
+? 
+Missing character: There is no ' in font nullfont!
+Missing character: There is no p in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 14.
+LaTeX Font Info:    No file cmr.fd. on input line 14.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 14.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.14 ...?^^?+h3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©
+                                                  `kMZAÖ…
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 14.
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no A in font nullfont!
+
+! LaTeX Error: Unicode character Ö… (U+0585)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...3‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©`kMZAÖ…
+                                                  
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8F.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...‚±Æ¾£HQŞ+š±^^OYÃT¯ó^^PÖ¯#ƒ°•bø'pÃ©`kMZAÖ…
+                                                  
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 š
+      gTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no g in font nullfont!
+Missing character: There is no T in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "C1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ
+         ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^A
+            L…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no L in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "85.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…
+              W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no W in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯
+                ^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^F
+                   ó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ó[^^T£).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£
+                         r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no r in font nullfont!
+
+! LaTeX Error: Unicode character ^^] (U+001D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]
+                             ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]º
+                              ékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ékÇ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇ
+                                 œ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ
+                                  ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤
+                                   ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÄÉ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉ
+                                     ï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Unicode character ï½˜ (U+FF58)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜
+                                        -¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no - in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡
+                                          ´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´
+                                           m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no < in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Û^^L).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 šgTÁ^^AL…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^L
+                                                 j2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#...
+
+? 
+Missing character: There is no j in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ææï).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...L…W¯^^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï
+                                                  -W^^T¯£wtgŞX¼W|æè”iùØ#^^A...
+
+? 
+Missing character: There is no - in font nullfont!
+Missing character: There is no W in font nullfont!
+
+! LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...^Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T
+                                                  ¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...Fó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯
+                                                  £wtgŞX¼W|æè”iùØ#^^AO^^TÎn...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "A3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...ó[^^T£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£
+                                                  wtgŞX¼W|æè”iùØ#^^AO^^TÎn^...
+
+? 
+Missing character: There is no w in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ŞX).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...£r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX
+                                                  ¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...r^^]ºékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼
+                                                  W|æè”iùØ#^^AO^^TÎn^^Z:ˆW...
+
+? 
+Missing character: There is no W in font nullfont!
+Missing character: There is no | in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (æè”).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...ékÇœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”
+                                                  iùØ#^^AO^^TÎn^^Z:ˆWÅy¾›K...
+
+? 
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "F9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...Çœ¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iù
+                                                  Ø#^^AO^^TÎn^^Z:ˆWÅy¾›Kn...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ø#).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...¤ÄÉï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#
+                                                  ^^AO^^TÎn^^Z:ˆWÅy¾›KnL3...
+
+? 
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...ï½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^A
+                                                  O^^TÎn^^Z:ˆWÅy¾›KnL3-¾¹...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...½˜-¡´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^A
+                                                  O^^TÎn^^Z:ˆWÅy¾›KnL3-¾¹ä...
+
+? 
+Missing character: There is no O in font nullfont!
+
+! LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...´m<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^T
+                                                  În^^Z:ˆWÅy¾›KnL3-¾¹äæ^^T...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (În).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...<Û^^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn
+                                                  ^^Z:ˆWÅy¾›KnL3-¾¹äæ^^T^^...
+
+? 
+
+! LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...^Lj2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z
+                                                  :ˆWÅy¾›KnL3-¾¹äæ^^T^^PÔ„...
+
+? 
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "88.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...j2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆ
+                                                  WÅy¾›KnL3-¾¹äæ^^T^^PÔ„V«...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...2ææï-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆ
+                                                  WÅy¾›KnL3-¾¹äæ^^T^^PÔ„V«|...
+
+? 
+Missing character: There is no W in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Åy).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...ï-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆWÅy
+                                                  ¾›KnL3-¾¹äæ^^T^^PÔ„V«|h)š...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...-W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆWÅy¾
+                                                  ›KnL3-¾¹äæ^^T^^PÔ„V«|h)šw...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "9B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...W^^T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆWÅy¾›
+                                                  KnL3-¾¹äæ^^T^^PÔ„V«|h)šw—...
+
+? 
+Missing character: There is no K in font nullfont!
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "8E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...T¯£wtgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆWÅy¾›Kn
+                                                  L3-¾¹äæ^^T^^PÔ„V«|h)šw—¾‡]...
+
+? 
+Missing character: There is no L in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no - in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...tgŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆWÅy¾›KnL3-¾
+                                                  ¹äæ^^T^^PÔ„V«|h)šw—¾‡]^^Wg...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...gŞX¼W|æè”iùØ#^^AO^^TÎn^^Z:ˆWÅy¾›KnL3-¾¹
+                                                  äæ^^T^^PÔ„V«|h)šw—¾‡]^^Wgo...
+
+? wq
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? X
+ 
+Here is how much of TeX's memory you used:
+ 168 strings out of 475178
+ 1373 string characters out of 5766540
+ 387848 words of memory out of 5000000
+ 23262 multiletter control sequences out of 15000+600000
+ 558837 words of font info for 36 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,4n,32p,583b,86s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
