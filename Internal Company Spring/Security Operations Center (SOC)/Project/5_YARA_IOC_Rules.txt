@@ -1,0 +1,15 @@
+YARA Rule:
+rule Suspicious_PE_Malware {
+    strings:
+        $s1 = "svchost32.exe"
+        $s2 = "http://malicious-example.com/c2"
+    condition:
+        uint16(0) == 0x5A4D and all of them
+}
+
+IOCs:
+Filename: svchost32.exe
+IP: 45.142.212.98
+Domain: malicious-example.com
+Registry: HKCU\...\Run\svchost32
+URL: http://malicious-example.com/c2
