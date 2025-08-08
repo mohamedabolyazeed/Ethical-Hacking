@@ -1,0 +1,19 @@
+kali IP : 192.168.1.8
+
+Expected Target IP : 192.168.1.10
+
+Running OS: Linux 2.4.X .9 - 18
+
+
+  port in open :
+       22 -> OpenSSH 2.9p2 (SSHv1)
+       80
+       111
+       139 -> Samba (Version ??(Samba 2.2.1a))
+       443
+       1024 -> Service ??
+       
+
+Samba :
+-> Anonymous login successful
+-> Samba 2.2.1a
