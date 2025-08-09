@@ -1,15 +1,15 @@
-# 🛡️ Lab Guide: CORS Vulnerability with Trusted Null Origin
+# Lab Guide: CORS Vulnerability with Trusted Null Origin
 
-This guide walks you through exploiting a **CORS vulnerability** where the server trusts the `null` origin, allowing unauthorized access to sensitive data like API keys. Using **Burp Suite**, you’ll craft an exploit to retrieve a victim’s API key. Let’s dive in! 🚀
+This guide walks you through exploiting a **CORS vulnerability** where the server trusts the `null` origin, allowing unauthorized access to sensitive data like API keys. Using **Burp Suite**, you’ll craft an exploit to retrieve a victim’s API key. Let’s dive in!
 
 ---
 
-## 📋 Objective
+## Objective
 Exploit a CORS misconfiguration that trusts the `null` origin to retrieve the victim’s API key via a malicious script.
 
 ---
 
-## 🛠️ Tools Needed
+## Tools Needed
 - **Burp Suite** (with Burp’s browser)
 - **Repeater** module in Burp Suite
 - **Exploit Server** (provided in the lab environment)
@@ -17,16 +17,16 @@ Exploit a CORS misconfiguration that trusts the `null` origin to retrieve the vi
 
 ---
 
-## 📝 Step-by-Step Instructions
+## Step-by-Step Instructions
 
-### 1️⃣ Log In and Capture the Request
+### 1- Log In and Capture the Request
 - Ensure **Intercept** is off in Burp Suite.
 - Use **Burp’s browser** to log in to your account and click **My Account**.
 - In **Proxy > HTTP history**, locate the AJAX request to `/accountDetails`.
 - Observe the **Access-Control-Allow-Credentials: true** header, suggesting CORS support.
 - **Right-click** the request and select **Send to Repeater**.
 
-### 2️⃣ Test for Null Origin Reflection
+### 2- Test for Null Origin Reflection
 - In **Repeater**, add the header:
   ```
   Origin: null
@@ -34,7 +34,7 @@ Exploit a CORS misconfiguration that trusts the `null` origin to retrieve the vi
 - Resubmit the request and check the response.
 - **Observation**: The response includes `Access-Control-Allow-Origin: null`, confirming the server trusts the `null` origin.
 
-### 3️⃣ Craft the Exploit
+### 3- Craft the Exploit
 - Navigate to the **Exploit Server** in the browser.
 - Enter the following HTML, replacing `YOUR-LAB-ID` and `YOUR-EXPLOIT-SERVER-ID` with your lab-specific URLs:
   ```html
@@ -52,7 +52,7 @@ Exploit a CORS misconfiguration that trusts the `null` origin to retrieve the vi
   ```
 - **Note**: The sandboxed `iframe` generates a `null` origin request, bypassing CORS restrictions.
 
-### 4️⃣ Test and Deliver the Exploit
+### 4- Test and Deliver the Exploit
 - Click **View exploit** to verify the exploit works. You should land on the log page with the API key in the URL.
 - Go back to the **Exploit Server** and click **Deliver exploit to victim**.
 - Access the **Access log**, retrieve the victim’s API key, and submit it to complete the lab.

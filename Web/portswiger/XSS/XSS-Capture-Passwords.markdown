@@ -1,27 +1,27 @@
-# 🛡️ Lab Guide: Exploiting Cross-Site Scripting to Capture Passwords
+# Lab Guide: Exploiting Cross-Site Scripting to Capture Passwords
 
-This guide shows how to exploit a **Cross-Site Scripting (XSS)** vulnerability to capture a victim’s username and password using **Burp Suite Professional**. You’ll use the Burp Collaborator to collect credentials stealthily. Let’s dive in! 🚀
+This guide shows how to exploit a **Cross-Site Scripting (XSS)** vulnerability to capture a victim’s username and password using **Burp Suite Professional**. You’ll use the Burp Collaborator to collect credentials stealthily. Let’s dive in!
 
 ---
 
-## 📋 Objective
+## Objective
 Exploit an XSS vulnerability in a blog comment system to capture a victim’s login credentials and send them to a Burp Collaborator server, then use the credentials to log in as the victim.
 
 ---
 
-## 🛠️ Tools Needed
+## Tools Needed
 - **Burp Suite Professional** (with Burp’s browser and Collaborator)
 - Basic understanding of XSS, HTTP requests, and form manipulation
 
 ---
 
-## 📝 Step-by-Step Instructions
+## Step-by-Step Instructions
 
-### 1️⃣ Set Up Burp Collaborator
+### 1- Set Up Burp Collaborator
 - Open **Burp Suite Professional** and navigate to the **Collaborator** tab.
 - Click **Copy to clipboard** to copy a unique **Burp collaborator subdomain** (e.g., `xyz.burpcollaborator.net`).
 
-### 2️⃣ Craft the XSS Payload
+### 2- Craft the XSS Payload
 - In **Burp’s browser**, navigate to a blog post (e.g., `https://YOUR-LAB-ID.web-security-academy.net/post?postId=3`) and access the comment submission form.
 - Submit the following XSS payload in the comment field, replacing `BURP-COLLABORATOR-SUBDOMAIN` with your copied subdomain:
   ```html
@@ -34,16 +34,16 @@ Exploit an XSS vulnerability in a blog comment system to capture a victim’s lo
   ```
 - **Note**: This payload creates fake login fields that capture the victim’s username and password, sending them to the Collaborator server when the password field changes.
 
-### 3️⃣ Capture the Victim’s Credentials
+### 3- Capture the Victim’s Credentials
 - Return to the **Collaborator** tab in Burp Suite and click **Poll now**.
 - Wait a few seconds and check for an HTTP interaction. If none appears, poll again.
 - **Observation**: The POST body contains the victim’s credentials (e.g., `administrator:kcrzjaueycdnb6vt2zm3`).
 
-### 4️⃣ Log In as the Victim
+### 4- Log In as the Victim
 - Use the captured credentials (e.g., username: `administrator`, password: `kcrzjaueycdnb6vt2zm3`) to log in via the login page (e.g., `https://YOUR-LAB-ID.web-security-academy.net/login`).
 - **Observation**: Successful login confirms the credentials are valid, solving the lab.
 
-### 5️⃣ Alternative Approach (Less Subtle)
+### 5- Alternative Approach (Less Subtle)
 - Instead of using Burp Collaborator, you could post the credentials as a blog comment:
   ```html
   <input type="text" name="username" id="username">
@@ -65,3 +65,4 @@ Exploit an XSS vulnerability in a blog comment system to capture a victim’s lo
       }
   ">
   ```
+  

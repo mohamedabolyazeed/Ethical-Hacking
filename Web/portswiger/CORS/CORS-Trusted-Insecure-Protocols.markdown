@@ -1,15 +1,15 @@
-# 🛡️ Lab Guide: CORS Vulnerability with Trusted Insecure Protocols
+# Lab Guide: CORS Vulnerability with Trusted Insecure Protocols
 
-This guide demonstrates how to exploit a **CORS vulnerability** that trusts insecure HTTP subdomains, combined with an **XSS vulnerability**, to retrieve a victim’s API key using **Burp Suite**. Let’s get started! 🚀
+This guide demonstrates how to exploit a **CORS vulnerability** that trusts insecure HTTP subdomains, combined with an **XSS vulnerability**, to retrieve a victim’s API key using **Burp Suite**. Let’s get started!
 
 ---
 
-## 📋 Objective
+## Objective
 Exploit a CORS misconfiguration that trusts HTTP subdomains and leverage an XSS vulnerability in the `productId` parameter to steal the victim’s API key.
 
 ---
 
-## 🛠️ Tools Needed
+## Tools Needed
 - **Burp Suite** (with Burp’s browser)
 - **Repeater** module in Burp Suite
 - **Exploit Server** (provided in the lab environment)
@@ -17,16 +17,16 @@ Exploit a CORS misconfiguration that trusts HTTP subdomains and leverage an XSS 
 
 ---
 
-## 📝 Step-by-Step Instructions
+## Step-by-Step Instructions
 
-### 1️⃣ Log In and Capture the Request
+### 1- Log In and Capture the Request
 - Ensure **Intercept** is off in Burp Suite.
 - Use **Burp’s browser** to log in and access your account page.
 - In **Proxy > HTTP history**, locate the AJAX request to `/accountDetails`.
 - Observe the **Access-Control-Allow-Credentials: true** header, indicating CORS support.
 - **Right-click** the request and select **Send to Repeater**.
 
-### 2️⃣ Test for Subdomain Origin Reflection
+### 2- Test for Subdomain Origin Reflection
 - In **Repeater**, add the header:
   ```
   Origin: http://stock.0a34000c0433503980320344007d0086.web-security-academy.net
@@ -34,12 +34,12 @@ Exploit a CORS misconfiguration that trusts HTTP subdomains and leverage an XSS 
 - Resubmit the request and check the response.
 - **Observation**: The response includes `Access-Control-Allow-Origin: http://stock.0a34000c0433503980320344007d0086.web-security-academy.net`, confirming the server trusts arbitrary subdomains, including HTTP.
 
-### 3️⃣ Identify XSS Vulnerability
+### 3- Identify XSS Vulnerability
 - Open a **product page** in the browser and click **Check stock**.
 - Observe that the request uses an **HTTP URL** on a subdomain (e.g., `http://stock.0a34000c0433503980320344007d0086.web-security-academy.net`).
 - Note that the `productId` parameter is vulnerable to **XSS**.
 
-### 4️⃣ Craft the Exploit
+### 4- Craft the Exploit
 - Navigate to the **Exploit Server** in the browser.
 - Enter the following HTML, replacing `0a34000c0433503980320344007d0086` and `YOUR-EXPLOIT-SERVER-ID` with your lab-specific URLs:
   ```html
@@ -49,7 +49,7 @@ Exploit a CORS misconfiguration that trusts HTTP subdomains and leverage an XSS 
   ```
 - **Note**: The XSS payload in `productId` executes a script that makes a cross-origin request to `/accountDetails`.
 
-### 5️⃣ Test and Deliver the Exploit
+### 5- Test and Deliver the Exploit
 - Click **View exploit** to verify the exploit works. You should land on the log page with the API key in the URL.
 - Go back to the **Exploit Server** and click **Deliver exploit to victim**.
 - Access the **Access log**, retrieve the victim’s API key, and submit it to complete the lab.

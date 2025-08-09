@@ -1,38 +1,38 @@
-# 🛡️ Lab Guide: Detecting NoSQL Injection Vulnerabilities
+# Lab Guide: Detecting NoSQL Injection Vulnerabilities
 
-This guide walks you through detecting and exploiting a **NoSQL injection vulnerability** in a web application using **Burp Suite**. Follow these steps to identify and manipulate the application's behavior, ultimately revealing unreleased products. Let's dive in! 🚀
+This guide walks you through detecting and exploiting a **NoSQL injection vulnerability** in a web application using **Burp Suite**. Follow these steps to identify and manipulate the application's behavior, ultimately revealing unreleased products. Let's dive in!
 
 ---
 
-## 📋 Objective
+## Objective
 Learn how to identify a NoSQL injection vulnerability by manipulating query parameters, injecting JavaScript payloads, and crafting boolean conditions to alter the server's response.
 
 ---
 
-## 🛠️ Tools Needed
+## Tools Needed
 - **Burp Suite** (with Burp's browser)
 - **Repeater** module in Burp Suite
 - Basic understanding of URL encoding and JavaScript payloads
 
 ---
 
-## 📝 Step-by-Step Instructions
+## Step-by-Step Instructions
 
-### 1️⃣ Access the Application
+### 1- Access the Application
 - Open **Burp's browser** and navigate to the target web application.
 - Click on a **product category filter** (e.g., "Gifts") to generate a request.
 
-### 2️⃣ Capture the Request
+### 2- Capture the Request
 - In **Burp Suite**, go to **Proxy > HTTP history**.
 - Locate the request triggered by the category filter.
 - **Right-click** the request and select **Send to Repeater** to analyze it further.
 
-### 3️⃣ Test for Injection
+### 3- Test for Injection
 - In the **Repeater** tab, modify the `category` parameter by injecting a single quote: `'`.
 - Submit the request and observe the response.
 - **Observation**: A **JavaScript syntax error** indicates that the input is not properly filtered or sanitized, suggesting a potential injection vulnerability.
 
-### 4️⃣ Inject a JavaScript Payload
+### 4- Inject a JavaScript Payload
 - Replace the `category` parameter with the following payload:
   ```
   Gifts'+
@@ -43,7 +43,7 @@ Learn how to identify a NoSQL injection vulnerability by manipulating query para
 - Submit the request and check the response.
 - **Observation**: No syntax error occurs, confirming that server-side injection is likely happening.
 
-### 5️⃣ Test Boolean Conditions
+### 5- Test Boolean Conditions
 Test how the application handles boolean conditions to manipulate the response.
 
 #### a) False Condition
@@ -64,7 +64,7 @@ Test how the application handles boolean conditions to manipulate the response.
 - Submit the request.
 - **Observation**: Products in the "Gifts" category are retrieved, indicating the condition evaluates to **true**.
 
-### 6️⃣ Exploit with a Persistent True Condition
+### 6- Exploit with a Persistent True Condition
 - Set the `category` parameter to a condition that **always evaluates to true**:
   ```
   Gifts'||1||'
