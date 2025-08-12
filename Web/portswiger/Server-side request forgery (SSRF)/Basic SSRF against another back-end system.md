@@ -48,10 +48,6 @@ The stock check feature sends a user-controlled `stockApi` URL to the server, wh
 2. Send the request.
 3. **Observation**: The server processes the request, deleting the user `carlos`, which solves the lab.
 
-![payload suc](./img/Basic_SSRF_against_another_back-end_system/Basic%20SSRF%20against%20another%20back-end%20system(1).png)
-![payload suc](./img/Basic_SSRF_against_another_back-end_system/Basic%20SSRF%20against%20another%20back-end%20system(2).png)
-![payload suc](./img/Basic_SSRF_against_another_back-end_system/Basic%20SSRF%20against%20another%20back-end%20system(3).png)
-
 ### Step 5: Verify Success
 1. If the lab does not confirm completion, verify:
    - The IP octet from Intruder is correct.
