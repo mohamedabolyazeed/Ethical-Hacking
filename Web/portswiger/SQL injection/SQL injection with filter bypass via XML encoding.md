@@ -61,7 +61,7 @@ The application sends `productId` and `storeId` in XML format for stock checks, 
 3. Send the encoded request.
 4. **Observation**: The response contains concatenated credentials (e.g., `administrator~password123`), separated by `~`.
 
-![payload suc](./img/SQL%20injection%20with%20filter%20bypass%20via%20XML%20encoding.png)
+![payload suc](./img/SQL%20injection%20with%20filter%20bypass%20via%20XML%20encoding/SQL%20injection%20with%20filter%20bypass%20via%20XML%20encoding.png)
 
 ### Step 5: Log In as Administrator
 1. Extract the administrator's credentials from the response.

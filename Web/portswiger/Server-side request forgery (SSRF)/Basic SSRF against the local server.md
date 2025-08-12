@@ -48,9 +48,9 @@ The application’s stock check feature sends a user-controlled `stockApi` URL t
 2. Send the request.
 3. **Observation**: The server processes the request, deleting the user `carlos`, which solves the lab.
 
-![payload suc](./img/Basic%20SSRF%20against%20the%20local%20server(1).png)
-![payload suc](./img/Screenshot_2025-08-11_10_38_22(2).png)
-![payload suc](./img/Screenshot_2025-08-11_10_39_28(3).png)
+![payload suc](./img/Basic%20SSRF%20against%20the%20local%20server/Basic%20SSRF%20against%20the%20local%20server(1).png)
+![payload suc](./img/Basic%20SSRF%20against%20the%20local%20server/Basic%20SSRF%20against%20the%20local%20server(2).png)
+![payload suc](./img/Basic%20SSRF%20against%20the%20local%20server/Basic%20SSRF%20against%20the%20local%20server(3).png)
 
 ### Step 6: Verify Success
 1. If the lab does not confirm completion, verify:
